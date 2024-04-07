@@ -2,16 +2,27 @@
   <url>
     <loc>https://awakura.github.io</loc>
     <lastmod>2023-12-23</lastmod>
-  </url><url>
-
-    <loc>https://awakura.github.io/toby/readme</loc>
-  </url><url>
-    <loc>https://awakura.github.io/toby/README.md.html</loc>
-  </url><url>
-    <loc>https://awakura.github.io/toby/easy.md.html</loc>
-  </url><url>
-    <loc>https://awakura.github.io/toby/links.md.html</loc>
-  </url><url>    
-    <loc>https://awakura.github.io/theNameCannotRemember/index</loc>
   </url>
+
+  <url>
+    <loc>https://awakura.github.io/toby/index.md.html</loc>
+    <lastmod>2024-04-07</lastmod>
+  </url>
+
+  <url>
+    <loc>https://awakura.github.io/toby/</loc>
+    <lastmod>2024-04-07</lastmod>
+  </url>
+
+  
+  <url>
+    <loc>https://awakura.github.io/toby/easy.md.html</loc>
+    <lastmod>2024-04-07</lastmod>
+  </url>
+
+  <url>
+    <loc>https://awakura.github.io/toby/links.md.html</loc>
+    <lastmod>2024-04-07</lastmod>
+  </url>
+
 </urlset>
