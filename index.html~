@@ -30,26 +30,100 @@
     トビハゼはとにかく飼うのが楽です。
     このサイトでトビハゼ、と特に区別せずに呼ぶ場合、総称としてのトビハゼ、もしくは、本州を中心に分布するP.modestusのことを指しています。
   </p>
-  <pre>
 
-    ・トビハゼの各言語での呼び名表
-    ・トビハゼに適した塩分濃度
+  <p>
+    [コンテンツ]<br>
+    <a href="https://awakura.github.io/toby/speciesMain.html">トビハゼ種別表、日英</a><br>
+    <a href="https://awakura.github.io/toby/species.html">トビハゼ種別表、全言語版、総称版</a><br>
+    <a href="https://awakura.github.io/toby/easy.html">ゆるくトビハゼを飼う(自宅で簡単泥干潟)</a><br>
+    <a href="https://awakura.github.io/toby/links.html">リンク集</a><br>
+    <a href="https://awakura.github.io/toby/PModestusInTokyo.html">東京におけるトビハゼの生態</a><br>
+    <a href="https://awakura.github.io/toby/log.html">トビハゼ関係、生育ログ</a><br>
+    <a href="https://awakura.github.io/toby/sched.html">トビハゼ関係、スケジュール</a><br>
+
+    <a href="https://awakura.github.io/toby/pandoc.html">作るにあたって学んだ、pandocとGitHUBに関する知識</a><br>    
+
+    <a href="https://awakura.github.io/toby/distributionMudskipper.html">トビハゼ属（Periophthalmus)の世界への分布状況から、進化のタイミングを逆算してみる</a><br>
+
+   
+  <p>
+    [Markdownで書いたもの]<br>
+    <a href="https://awakura.github.io/toby/speciesMain.md">トビハゼ種別表、日英</a><br>
+    <a href="https://awakura.github.io/toby/species.md">トビハゼ種別表、全言語版、総称版</a><br>
+    <a href="https://awakura.github.io/toby/easy.md">ゆるくトビハゼを飼う(自宅で簡単泥干潟)</a><br>
+    <a href="https://awakura.github.io/toby/PModestusInTokyo.md">東京におけるトビハゼの生態</a><br>
+    <a href="https://awakura.github.io/toby/links.md">リンク集 md</a><br>
+    <a href="https://awakura.github.io/toby/log.md">トビハゼ関係、生育ログ</a><br>
+    <a href="https://awakura.github.io/toby/sched.md">トビハゼ関係、スケジュール</a><br>    
+
+    <a href="https://awakura.github.io/toby/pandoc.md">作るにあたって、pandocとGitHUBに関する知識</a><br>    
+
+    <a href="https://awakura.github.io/toby/distributionMudskipper.md">トビハゼ属（Periophthalmus)の世界への分布状況から、進化のタイミングを逆算してみる</a><br>
+    
+  </p>
+
+  <h2>トビハゼ ホットトピック</h2>
+    <p>
+
+      
+      <a href="https://www.sustainablebrands.jp/news/jp/detail/1190356_1501.html">中高生科学コンペ、優勝は「トビハゼの転がり」研究</a><br>
+　     左右の転がりに規則性はないとのこと。　かえつ有明高校(東京・江東)1年の田中絢音さん。(2018)
+
+    <p>
+      <a href="https://www.chibanippo.co.jp/news/local/1099312">市川市、三番瀬護岸を干潟化へ　「長年の悲願」親水拠点目指し現地調査</a>(2023/08)<br>
+      2025年度の計画。評価中。干潟が増えるのはいいが、アマモ原をつぶして作るのは、物議を醸すよね。
+
+    <p>
+      東京都葛西臨海水族園、今年もトビハゼの稚魚の展示が始まっているそうです。2024/08/26
+      <a href="https://www.tokyo-zoo.net/topic/topics_detail?kind=news&inst=kasai&link_num=10073">2008年の記事</a><br>
+      
+    </p>
+
+
+<h2> 育てていると気になる、いつか調べたい トビハゼの謎 </h2>
+  <pre>
+    トビハゼ生態について
+      ・陸上進化へ何らか絡んでいるのか？
+      ・なぜごろんをするのか
+      ・どうやったら巣が作れる土になるのか、彼らが住める干潟を人工的に作ることは可能なのか？
+
+      ・本当に体長１０cmになるのか？　肌感覚的には7cmくらいが限界。
+　    ・汽水域というが、真水が流れているところに住んでいたりと、結局塩分どれくらいの塩性湿地にすめるのか？
+      ・どれくらいの温度だと死ぬのか
+　    ・雌雄見分けにくいがどうなっているのか？　性転換はないのか？
+      ・本当にアンモニアの代謝能があるのか。　哺乳類群のアンモニア代謝にたいして、6000万年程度で手に入れられるものなのか？
+
+    分化について
+　    ・ムツゴロウとトビハゼは、どこらへんで分化したのか。
+      ・他の動物と、いつごろ分化したのか。
+    ・なぜ、アフリカ西岸にいるのに、アメリカ東岸にいないのか
+
+
+    ・種の文化、ファッション
+    ・威嚇、軍の　
+    ・熊の、食べた後の　　野菜もどっちも食う。
+    ・緑食べてるんじゃないだろうか。
     
   </pre>
 
-  <p>
-    [html]<br>
-    <a href="https://awakura.github.io/toby/species.html">トビハゼ種別表、全言語版、総称版</a><br>
-    <a href="https://awakura.github.io/toby/log.html">トビハゼ関係、生育ログ</a><br>
-    <a href="https://awakura.github.io/toby/links.html">リンク集</a><br>
-  <p>
-    [md]<br>
-    <a href="https://awakura.github.io/toby/links.md">リンク集 md</a>
-  </p>
-  
-  
-<h2>トビハゼの各言語での呼び名表  
 
+    
+    <h2>トビハゼ 新聞記事</h2>
+      <p>
+	<a href="https://www.yomiuri.co.jp/national/20230808-OYT1T50113/">2023/08/08 読売新聞 準絶滅危惧種トビハゼ、恋の季節…オスは干潟で跳びはねメスにアピール</a><br>
+
+      <p>
+	<a href="https://www.sankei.com/article/20230304-RS5LB2E6PRIMJHSSM7ZOPXNF4A/">2023/03/04 産経新聞 独特の風貌…東京で絶滅危惧　トビハゼの保全続ける葛西臨海水族園</a><br>
+	
+      <p>
+	<a href="https://www.chugoku-np.co.jp/articles/-/452118">2024/05/08 中国新聞デジタル 空気中もへっちゃら　トビハゼ</a><br>
+	宮島水族館。
+	
+      <p>
+	<a href="https://www.youtube.com/watch?v=Eia8zBuNq1o">諫早湾のムツかけ漁</a><br>
+      </p>
+
+<h2>トビハゼの各言語での呼び名表  </h2>
   
 <table>
 <thead>
