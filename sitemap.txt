@@ -8,5 +8,7 @@ https://awakura.github.io/toby/sched.html
 https://awakura.github.io/toby/log.html
 https://awakura.github.io/toby/pandoc.html
 https://awakura.github.io/toby/distributionMudskipper.html
+https://awakura.github.io/toby/glossaryForMudskipper.html
+https://awakura.github.io/toby/divergenceTimeMudskipper.html
 
 
