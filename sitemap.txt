@@ -8,7 +8,7 @@ https://awakura.github.io/toby/log.html
 https://awakura.github.io/toby/pandoc.html
 https://awakura.github.io/toby/distributionMudskipper.html
 https://awakura.github.io/toby/glossaryForMudskipper.html
-https://awakura.github.io/toby/divergenceTimeMudskipper.html
+https://awakura.github.io/toby/riddleOfMudskipper.html
 https://awakura.github.io/toby/indexEn.html
 
 
