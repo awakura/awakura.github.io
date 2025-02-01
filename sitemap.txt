@@ -1,5 +1,4 @@
 https://awakura.github.io/index.html
-https://awakura.github.io/toby/nj.html
 Https://awakura.github.io/toby/easy.html
 Https://awakura.github.io/toby/PModestusInTokyo.html
 https://awakura.github.io/toby/speciesMain.html
@@ -12,7 +11,10 @@ https://awakura.github.io/toby/glossaryForMudskipper.html
 https://awakura.github.io/toby/riddleOfMudskipper.html
 https://awakura.github.io/toby/indexEn.html
 https://awakura.github.io/toby/phylogeneticTrees.html
+https://awakura.github.io/toby/nj.html
+https://awakura.github.io/toby/mudskipperRelatedItems.html
 https://awakura.github.io/toby/daily_log.html
 https://awakura.github.io/toby/funny_log.html
+
 
 
