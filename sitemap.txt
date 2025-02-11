@@ -14,7 +14,7 @@ https://awakura.github.io/toby/phylogeneticTrees.html
 https://awakura.github.io/toby/nj.html
 https://awakura.github.io/toby/mudskipperRelatedItems.html
 https://awakura.github.io/toby/marksheet.html
-https://awakura.github.io/toby/daily_log.html
+https://awakura.github.io/toby/howtosayTobihaze.html
 https://awakura.github.io/toby/funny_log.html
 
 
