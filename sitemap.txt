@@ -9,6 +9,7 @@ https://awakura.github.io/toby/pandoc.html
 https://awakura.github.io/toby/distributionMudskipper.html
 https://awakura.github.io/toby/glossaryForMudskipper.html
 https://awakura.github.io/toby/riddleOfMudskipper.html
+https://awakura.github.io/toby/riddleOfMudskipper2-uncoverHumanMysteries.html
 https://awakura.github.io/toby/indexEn.html
 https://awakura.github.io/toby/phylogeneticTrees.html
 https://awakura.github.io/toby/nj.html
