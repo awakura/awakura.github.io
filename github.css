@@ -298,27 +298,28 @@ grid-row-gap: 0px;
 	background-color: transparent;
       }
 .div2 { grid-area: 1 / 2 / 2 / 3;
-	background-color: #EBEBEB;
+	background-color: #AFEEEE;
       }
 .div3 { grid-area: 1 / 3 / 2 / 4;
-	background-color: #EBEBEB;
+	background-color: #FFFFE0;
       }
 .div4 { grid-area: 2 / 1 / 3 / 2;
-	background-color: #EBEBEB;
+	background-color: #FFDA89;
       }
 .div5 { grid-area: 2 / 2 / 3 / 3;
-	background-color: #EBEBEB;
+	background-color: #98F898;
       }
 .div6 { grid-area: 2 / 3 / 3 / 4;
-	background-color: #EBEBEB;
+	background-color: transparent;
       }
 .div7 { grid-area: 3 / 1 / 4 / 2;
-	background-color: #EBEBEB;
+	background-color: transparent;
       }
 .div8 { grid-area: 3 / 2 / 4 / 3;
-	background-color: #EBEBEB;
+	background-color: #AFEEEE;
       }
 .div9 { grid-area: 3 / 3 / 4 / 4;
-	background-color: #EBEBEB;
+	background-color: #FFFFE0;
+
       }
 
