@@ -278,25 +278,17 @@ pre {
 
 
 
-.parent {
-display: grid;
-grid-template-columns: repeat(5, 1fr);
-grid-template-rows: repeat(5, 1fr);
-grid-column-gap: 0px;
-grid-row-gap: 0px;
-}
 
 .parent {
 display: grid;
 grid-template-columns: repeat(3, 1fr);
-grid-template-rows: repeat(3, 1fr);
+grid-template-rows: repeat(5, 1fr);
 grid-column-gap: 3px;
 grid-row-gap: 3px;
 }
 
 .div1 { grid-area: 1 / 1 / 2 / 2;
-	background-color: transparent;
-	align-items: center;
+
       }
 .div2 { grid-area: 1 / 2 / 2 / 3;
 	background-color: #AFEEEE;
@@ -318,15 +310,24 @@ grid-row-gap: 3px;
 	background-color: #98F898;
 	padding: 20px;
       }
+
 .div7 { grid-area: 3 / 1 / 4 / 2;
-	background-color: #AFEEEE;
+      	background-color: #AFEEEE;
+	padding: 20px;
       }
-.div8 { grid-area: 3 / 2 / 4 / 3;
 
-      }
+.div8 { grid-area: 3 / 2 / 4 / 3; }
 .div9 { grid-area: 3 / 3 / 4 / 4;
-	background-color: #FFFFE0;
-	background-color: transparent;	
-
+      	background-color: #FFFFE0;
+	background-color: transparent;
       }
+.div10 { grid-area: 4 / 1 / 5 / 2;
+       	background-color: #FFFFE0;
+	background-color: transparent;
+       }
+.div11 { grid-area: 4 / 2 / 5 / 3; }
+.div12 { grid-area: 4 / 3 / 5 / 4; }
+.div13 { grid-area: 5 / 1 / 6 / 2; }
+.div14 { grid-area: 5 / 2 / 6 / 3; }
+.div15 { grid-area: 5 / 3 / 6 / 4; }
 
