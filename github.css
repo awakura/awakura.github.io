@@ -328,11 +328,15 @@ grid-row-gap: 3px;
 	padding: 20px;
 
        }
-.div11 { grid-area: 4 / 2 / 5 / 3; }
+.div11 { grid-area: 4 / 2 / 5 / 3;
 	background-color: #FFDA89;
 	padding: 20px;
+       }
 
-.div12 { grid-area: 4 / 3 / 5 / 4; }
+.div12 { grid-area: 4 / 3 / 5 / 4;
+      	background-color: #AFEEEE;
+	padding: 20px;
+       }
 .div13 { grid-area: 5 / 1 / 6 / 2; }
 .div14 { grid-area: 5 / 2 / 6 / 3; }
 .div15 { grid-area: 5 / 3 / 6 / 4; }
