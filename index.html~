@@ -9,7 +9,7 @@
   <meta property="og:url" content="https://awakura.github.io/" />
   <meta property="og:title" content="2355toby, Toby the mudskipper" />
   <meta property="og:locale" content="ja_JP" />
-<meta property="og:site_name" content="2355Toby, Toby the mudskipper" />
+  <meta property="og:site_name" content="2355Toby, Toby the mudskipper" />
   <meta name="twitter:site" content="@homemaku" />
 
   <link rel="stylesheet" href="https://awakura.github.io/github.css" />
@@ -26,34 +26,181 @@
 
   <p>
 
-    <a href="https://awakura.github.io/toby/indexEn.html">English pages</a><br>
-    
+ 
+    <a href="https://awakura.github.io/toby/indexEn.html">English pages</a> - 
+    <a href="https://awakura.github.io/toby/indexCn.html">中文</a><br>
+
+    魚類全般：　
+    <a href="https://awakura.github.io/toby/links.html#:~:text=%E3%81%AE%E9%80%9F%E5%BA%A6%E3%82%84-,%E7%AA%81%E9%80%B2%E9%80%9F%E5%BA%A6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE,-%E5%8C%97%E6%B5%B7%E9%81%93%E9%96%8B%E7%99%BA%E5%B1%80">魚類の速度や抗力</a> - - - -
+  
     <a href="https://ja.wikipedia.org/wiki/%E9%9A%8E%E7%B4%9A_(%E7%94%9F%E7%89%A9%E5%AD%A6)#%E5%9B%BD%E9%9A%9B%E5%8B%95%E7%89%A9%E5%91%BD%E5%90%8D%E8%A6%8F%E7%B4%84">[国際動物命名規約 階級 Wikipedia]</a> - - - - 
-    <a href="https://awakura.github.io/toby/glossaryForMudskipper.html">トビハゼ関連用語集</a> - - - -
-    <a href="https://awakura.github.io/toby/speciesMain.html">トビハゼ種別表、日英</a> - - - -
     <a href="https://ja.wikipedia.org/wiki/%E9%AD%9A%E9%A1%9E%E7%94%A8%E8%AA%9E">魚類用語集 Wiki </a> - - - -
     <a href="https://awakura.github.io/toby/phylogeneticTrees.html">系統樹集</a> - - - -
+
     
     <br>
+    トビハゼ関係：
+    <a href="https://awakura.github.io/toby/glossaryForMudskipper.html">トビハゼ関連用語集</a> - - - -
+    <a href="https://awakura.github.io/toby/speciesMain.html">トビハゼ種別表、日英</a> - - - -
+    <a href="https://awakura.github.io/toby/pf.html">ピアノ同好会トビー</a>
+        
+    
+    <br>
+    東京湾関係 ： 
     <a href="https://tenki.jp/forecast/3/16/4410/13103/1hour.html">東京湾天気　１時間毎</a> - 
     <a href="https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=TK">東京湾　潮汐表</a> -
- 
-   
+    <a href="https://tenki.jp/pollen/mesh/3/16/">東京花粉</a> 
+    
+
+    <br>
+    日記関係 ： 
+    <a href="https://awakura.github.io/toby/log.html">トビハゼ観察日記</a> - 
+    <a href="https://awakura.github.io/toby/funny_log.html">おもろかった話</a> -
+    <a href="https://awakura.github.io/toby/ls-link.html">全ファイル確認リンク</a> - 
+    
+    <br>
+    最近の更新
+    <a href="https://awakura.github.io/toby/nj.html">分子系統学、進化系統樹　超初心者向けまとめ 2025年1月3日作成</a><br>
+    
   <p>
+
+
+<div class="parent">
+  <div class="div1">
+    <img src="https://github.com/awakura/toby/blob/main/img/top-toby-on-green.jpg?raw=true" width="250" height="231" alt="藻の上にいるトビハゼ">
+   
+  </div>
+
+  
+  <a href="https://awakura.github.io/toby/easy.html" style="text-decoration: none;">
+  <div class="div2">
+    <B>トビハゼの育て方</B>
+    <p>泥干潟の土を用いる事で「安く、より面白い」トビハゼの育て方をご紹介します。</p>
+  </div>
+  </a>
+
+  <!--a href="https://www.youtube.com/@2355toby" style="text-decoration: none; color: #000000;"-->
+  
+  <a href="https://www.youtube.com/@2355toby" style="text-decoration: none;">
+  <div class="div3">
+    <B> 「トビハゼ「トビー」のほぼ毎日更新」 </B>
+    <p>トビハゼの日常をほぼ毎日Youtube動画にしています。<p>トビハゼを見ていると、生物の生態に関する気づきや、果ては人生のヒントを得られる気がします</p>
+
+  </div>
+  </a>
+
+  
+
+  <a href="https://awakura.github.io/toby/researchersPapers.html" style="text-decoration: none;">  
+  <div class="div4">
+    <B> 論文・研究者 </B>
+    <p>トビハゼに関する著名論文や、関連論文の要約とリンクです。</p>
+  </div>
+  </a>
+  
+  
+  <div class="div5">
+    <img src="https://github.com/awakura/toby/blob/main/img/top-toby-standup.JPG?raw=true" width="250" height="250" alt="mudskipper sticking to wall">
+  </div>
+
+  
+  <div class="div6">
+    <b>トビハゼの謎</b>
+    <p>トビハゼは謎多き魚です。なんで陸地に登るか。なぜ水上でも陸上でもジャンプできるのか。
+    <p>
+      <a href="https://awakura.github.io/toby/riddleOfMudskipper.html">トビハゼの謎１</a>
+      <a href="https://awakura.github.io/toby/riddleOfMudskipper2-uncoverHumanMysteries.html">トビハゼの謎２</a>
+    </p>
+  </div>
+  
+  <div class="div7">
+    <B>干潟の物語</B>
+    <p>絶滅危惧にあるトビハゼの救世主や、都会の干潟を守った人たちの話</p>
+  </div>
+
+  <div class="div8">
+    <B>トビハゼ関連リンク・グッズ</B>
+    <p>トビハゼ関連グッズを集めています
+    <p>
+      
+    </p>
+
+    
+  </div>
+  
+  <div class="div9">
+        <img src="https://github.com/awakura/toby/blob/main/img/top-bikkuri.jpg?raw=true" width="256" height="256" alt="ビックリマンチョコ風">
+  </div>
+
+  観察結果
+  勉強した事
+  仮説類
+おもしろ文章
+
+  
+  <div class="div10">
+    <B>おもしろ読み物</B>
+    <p>
+      生物が教えてくれること
+    <p>
+      
+    </p>
+   
+  </div>
+
+  <div class="div11">
+        <B>関連知識</B>
+    <p>
+    </p>
+   
+  </div>
+
+<div class="div12">
+  
+</div>
+<div class="div13"> </div>
+<div class="div14"> </div>
+<div class="div15"> </div>
+</div>
+
+<div>
+  <iframe src="https://www.youtube.com/embed/6GLXjNBMkCI"></iframe>
+  <iframe src="https://www.youtube.com/embed/73UL6TRqySs"></iframe>
+</div>
+    
+
+  <p>
+    <br>
+  <p>    
     トビハゼの楽な飼い方を中心に、トビハゼ情報を集めています。
     トビハゼはとにかく飼うのが楽です。
     このサイトでトビハゼ、と特に区別せずに呼ぶ場合、総称としてのトビハゼ、もしくは、本州を中心に分布するP.modestusのことを指しています。
-    主な内容は以下の通りです。
+    ちなみに筆者は、ど素人でミナミトビハゼとトビハゼの区別もあまりつきません。腹鰭の分かれ方も、種間でめっちゃグラデュアルで見分けにくいような・・見分けられる人すごい。
   <p>
-    １．トビハゼ自体の情報　２．トビハゼを調べてるうちにわかった事　３．新着情報・スケジュール・その他
+        <br>
   </p>
 
+
+ 
   
   <h3>１．トビハゼ自体の情報</h3>
-  <h4>リファレンス類　英語対照表　各国語対照表　関連用語集</h4>
+  <h4>リファレンス類(英語対照表　各国語対照表　関連用語集)</h4>
+
   <p>
+    <a href="https://awakura.github.io/toby/researchersPapers.html">トビハゼ研究者、トビハゼ論文について</a>
+  <p>
+    <a href="https://awakura.github.io/toby/howtosayTobihaze.html">トビハゼって英語でなんていうの？実は難しいトビハゼの英語表現</a><br>
     <a href="https://awakura.github.io/toby/speciesMain.html">トビハゼの各国語および学名の対照表</a><br>
     <a href="https://awakura.github.io/toby/glossaryForMudskipper.html">トビハゼ関連用語集</a><br>
+    <a href="https://awakura.github.io/toby/marksheet.html">トビハゼマークシート(作成中)</a><br>
+    <a href="https://awakura.github.io/toby/mudskipperRelatedItems.html">手に入るトビハゼグッズ(作成中)</a><br>
+    <a href="https://awakura.github.io/toby/speciesMain.html">
+      トビハゼの各国語および学名の対照表</a><br>
+
+
+    
+    
+    
   </p>
   <h4>自分の観察結果まとめ</h4>
   <p>
@@ -63,27 +210,32 @@
   </p>
 
 
+  
+  <br>
+
   <h3>２．トビハゼを調べてるうちにわかった事</h3>
 
-  <h4>
     <p>
+
+      <a href="https://awakura.github.io/toby/nj.html">分子系統学、進化系統樹　超初心者向けまとめ</a><br>
       <a href="https://awakura.github.io/toby/phylogeneticTrees.html">系統樹集</a><br>
-     
+  
     </p>
-    
-
-    
-
   
   <h4>仮説類（ほぼ妄想）</h4>
   <p>
     <a href="https://awakura.github.io/toby/distributionMudskipper.html">Mudsukipper類の世界での分布を大陸移動の側面から推測する</a><br>
-    <a href="https://awakura.github.io/toby/riddleOfMudskipper.html">トビハゼの謎をおいかけます。　トビハゼはなんで陸に上がってきたのか？なんで飛べるのか？
-      海と山をいったりきたりしているその他の動物たちと、トビハゼの進化のスケールを比較する。海に戻ったラッコ、海に戻ったウミヘビ、海亀。一番根性がなかったのはどいつか？</a></br>
+    <a href="https://awakura.github.io/toby/riddleOfMudskipper.html">トビハゼの謎１　トビハゼはなんで陸に上がってきたのか？なんで飛べるのか？
+    </a></br>
+
+    <a href="https://awakura.github.io/toby/riddleOfMudskipper2-uncoverHumanMysteries.html">トビハゼの謎２　トビハゼの謎を追いかけていると、人類の謎も解けてくる。
+    </a></br>
+    
+
+<-- riddleOfMudskipper3-jumpSpeed.html -->
+<-- frontierAnimalia.md  -->
 
   </p>
-
-  <h4>最近のニュース・研究成果からトビハゼのことを妄想する</h4>
 
   
   <h4> PC関係 </h4>
@@ -91,6 +243,9 @@
     <a href="https://awakura.github.io/toby/pandoc.html">作るにあたって学んだ、pandocとGitHUBに関する知識</a><br>    
   </p>
 
+
+  <br>
+  
   <h3>３．新着情報・スケジュール・その他</h3>
   <p>
     <a href="https://awakura.github.io/toby/links.html">トビハゼリンク集</a><br>
@@ -98,19 +253,50 @@
   
   </p>
 
-
+    <br>
 
 
 <h2> 育てていると気になる、いつか調べたい トビハゼの謎 </h2>
-<h2>ある程度調査が完了したもの</
 
+<h3>ある程度調査が完了したもの</h3>
+
+
+<a href="https://awakura.github.io/toby/riddleOfMudskipper.html#:~:text=%E3%81%AA%E3%81%AE%E3%81%AB%E3%80%81%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E3%81%AA%E3%82%93%E3%81%A7-,%E9%99%B8%E4%B8%8A%E3%82%92%E3%81%86%E3%82%8D%E3%81%86%E3%82%8D%E3%81%97%E3%81%A6%E3%82%8B%E3%81%AE,-%E3%81%8B%E3%80%82">
+トビハゼは魚なのに、そもそもなんで陸上をうろうろしてるのか</a><br>
+
+    <a href="https://awakura.github.io/toby/riddleOfMudskipper.html#:~:text=%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E3%82%89%E3%80%81-,%E6%88%91%E3%80%85%E5%9C%B0%E4%B8%8A%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B%E7%94%9F%E3%81%8D%E7%89%A9%E3%81%AE%E7%A5%96%E5%85%88%E3%81%AA%E3%81%AE%E3%81%8B,-%EF%BC%9F%E9%80%B2%E5%8C%96%E3%81%97%E3%81%A6"></a>トビハゼは魚なのに陸上を歩いているから、我々地上に生きる生き物の祖先なのか？<br>
+
+<h3>さらに調査が必要なもの</h3>
+
+    <a href="https://awakura.github.io/toby/riddleOfMudskipper.html#:~:text=%E9%B0%AD%E9%A1%9E%20wiki-,%E3%83%88%E3%83%93%E3%83%8F%E3%82%BC%E3%81%AF%E4%BD%95%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F,-%E5%85%88%E6%97%A5%E3%80%81%E9%9D%A2%E7%99%BD%E3%81%84%E8%A8%98%E4%BA%8B">トビハゼは何を食べているのか</a><br>
+    <a href=""></a><br>
 
 
 <pre>
     トビハゼ生態について
 
-    ・なんで陸上に住んでいるのか？
 
+彼らと話すと「トビハゼはすばしっこくて全然捕まえられない」といいます。
+しかしなぜか日本のトビハゼだけのんびりしていて、割と網で簡単に捕まるのです。
+
+鳥として逃げる、魚として逃げる
+
+
+    
+
+    場所や周りに合わせて色を変えるけど、ハゼは変わるでしょ。
+    はぜ科はみんな変わるんやろうか。
+    体色変化しない魚とかいるんやろうか？
+
+    ジャンプ
+    
+    速度は?
+    どうやってガラス面に張り付いているのか。　岩に張り付いているのも　水分の吸着力？　ほんまかいな。
+    　お顔を膨らますのは、吸着面を増やすため？　体積だけ増やし、体重を増やさず。
+    ほんまにファンデルワールス力？
+    　分子から計算できるんやろうか？　圧力差、みたいなやつじゃなくて？
+
+          海と山をいったりきたりしているその他の動物たちと、トビハゼの進化のスケールを比較する。海に戻ったラッコ、海に戻ったウミヘビ、海亀。一番根性がなかったのはどいつか？
 
     トビハゼを見ていると固有の疑問。
 
@@ -128,13 +314,19 @@
     論文などをベースに想定するもの。
 
 
+
+
     いがいとイソギン、ヤドカリにくっついて動く。
 
     ほそうみになもけっこううごう
 
     ハンター系の貝がいる。アラムシロとか。
+
+    動かなさそうに見えて、動く人たち。
     
 
+不良の格好をするのは、話しかけてほしくないから。
+    
     もう擬態面倒くさいなーって、透明になったエビたちすげえ。
     　透明ー＞色付きー＞透明の進化も興味ある
 
@@ -168,13 +360,16 @@
     ・威嚇、軍の　   
     ・熊の、食べた後の　　野菜もどっちも食う。
     ・緑食べてるんじゃないだろうか。
+    ・いつも飯ばっかり、ローカルグルメ
+    ・天敵がいないと、鳥は飛ばなくなるように大体進化してしまうらしい。
+    
+
 
     同質的な個体を選ぶ
  種の文化がファッションから始まる
     情報伝達どうしてるのか。　こういうチムニーを掘ればいい、　冬眠できるのか？　同一種をある日連れてきておけば、冬眠するのか？
 
-
-    
+   
     条鰭類が、また、陸地に戻ろうかって思ったのがここ6000万年
     　鯨類が、また海行こうか、とおもったのが
     ラッコ類
@@ -188,21 +383,12 @@
 
     トビハゼの保全。
 
-    　環境　　江戸川の保全の話
-
-    千葉の自然の話
-
-    東京ズーネットの保全
-
     奄美自然の権利訴訟
     原告適格
     所有者じゃなくて、人と自然の関係性を、原告にできるかどうか、というところ
     　米国などの
 
-    　　トビハゼはヘッドアタックするけど大丈夫なのか？　ゼラチン室がすごい話
-    https://nazology.kusuguru.co.jp/archives/109962
-    頭突きで対決する動物って脳とか大丈夫なの？　研究者「駄目みたいです」
-    ちなみにベルーガの頭はタプタプです。　深海生物も圧力対策
+
 https://x.com/tan_sui_kabutz/status/1842319132496474536?s=61
     山椒魚が、他の山椒魚に噛まれててんけど、顔出す時にめがhっこんどって、
     眼窩に目を沈めて、某行する仕掛けってトビハゼじゃなくてもあるんやな。　魚類じゃないのに。
@@ -230,228 +416,6 @@ https://x.com/tan_sui_kabutz/status/1842319132496474536?s=61
     </p>
 
 
-
-<h2>トビハゼの各言語での呼び名表  </h2>
-  
-<table>
-<thead>
-<tr class="header">
-<th>和名</th>
-<th>トビハゼ</th>
-<th>（和名無し）</th>
-<th>ミナミトビハゼ</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>生息域</td>
-<td>東アジア熱帯</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>科名</td>
-<td>ハゼ科</td>
-<td>ハゼ科</td>
-<td>ハゼ科</td>
-</tr>
-<tr class="odd">
-<td>亜科</td>
-<td>オキスデルシス亜科</td>
-<td>オキスデルシス亜科</td>
-<td>オキスデルシス亜科</td>
-</tr>
-<tr class="even">
-<td>属</td>
-<td>Periophthalmus</td>
-<td>Periophthalmus</td>
-<td>Periophthalmus</td>
-</tr>
-<tr class="odd">
-<td>学名</td>
-<td>P. modestus</td>
-<td>P. gracilis</td>
-<td>P.argentilineatus</td>
-</tr>
-<tr class="even">
-<td>和名</td>
-<td>トビハゼ</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>英語名</td>
-<td>Shuttles mudskipper</td>
-<td></td>
-<td>Barred mudskipper / Sliverlined udskipper</td>
-</tr>
-<tr class="even">
-<td>繁体字</td>
-<td>廣東彈塗魚</td>
-<td></td>
-<td>銀身彈塗魚</td>
-</tr>
-<tr class="odd">
-<td>簡体字</td>
-<td>广东弹涂鱼</td>
-<td></td>
-<td>银身弹涂鱼</td>
-</tr>
-<tr class="even">
-<td>韓国語</td>
-<td>말뚝망둥어</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>アラビア語</td>
-<td>گل‌خورک ماکو</td>
-<td></td>
-<td>گل‌خورک نواری</td>
-</tr>
-<tr class="odd">
-<td>ロシア語</td>
-<td>なし</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>スペイン語</td>
-<td>なし</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Thai</td>
-<td></td>
-<td>ตีน กระจัง พรวด</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Tieng Viet</td>
-<td>-</td>
-<td>Cá thòi lòi vạch ngang trắng</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Bahasa Malaysia</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr class="header">
-<th>総称</th>
-<th>トビハゼ</th>
-<th>（トビハゼおよびミナミトビハゼの事を指す）</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>英語名</td>
-<td>Mudskipper</td>
-<td>オックスデルシナ科の総称</td>
-</tr>
-<tr class="even">
-<td>繁体字</td>
-<td>彈塗魚</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>簡体字</td>
-<td>弹涂鱼</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>韓国語</td>
-<td>망둥어</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>アラビア語</td>
-<td>گل‌خورک</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>ロシア語</td>
-<td>Стрибунові</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>イタリア語</td>
-<td>pesci saltafango</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>スペイン語</td>
-<td>peces del fango</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>ドイツ語</td>
-<td>Schlammspringerverwandte</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Thai</td>
-<td>ปลาตีน</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Tieng Viet</td>
-<td>Cá thòi lòi</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Bahasa Malaysia</td>
-<td>Ikan Belacak</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Bahasa Indonesia</td>
-<td>Tembakul</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Hindi</td>
-<td>पंकलंघी</td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 
 
